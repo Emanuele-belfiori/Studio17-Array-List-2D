@@ -10,7 +10,7 @@ public class Main {
         /* 3 PUNTO-) Creazione ArrayList 2D */
         ArrayList<ArrayList<String>> spese =new ArrayList();
 
-        /* 1 PUNTO-) Prima array creata */
+        /* 1 PUNTO-) Primo ArrayList creato */
         ArrayList<String> speseCasa = new ArrayList();
         speseCasa.add("Luce");
         speseCasa.add("Gas");
@@ -18,7 +18,7 @@ public class Main {
         speseCasa.add("Riscaldamento");
         speseCasa.add("Condominio");
 
-        /* 2 PUNTO-) Seconda classe creata */
+        /* 2 PUNTO-) Secondo ArrayList creato */
         ArrayList<String> speseExtra = new ArrayList();
         speseExtra.add("Assicurazioni");
         speseExtra.add("Internet");
